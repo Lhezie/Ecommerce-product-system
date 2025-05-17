@@ -34,7 +34,6 @@ This system was built using core **Object-Oriented Programming (OOP)** principle
 
 ## Technologies Used
 
-- Java (JDK 17+)
 - NetBeans
 - UML (Class Diagram)
 - Exception handling (e.g., `IllegalArgumentException`)
